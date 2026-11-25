@@ -1,3 +1,0 @@
-/home/montaha/DTN-Edge/build/CMakeFiles/rebuild_cache.dir
-/home/montaha/DTN-Edge/build/CMakeFiles/edit_cache.dir
-/home/montaha/DTN-Edge/build/CMakeFiles/dtn_edge.dir

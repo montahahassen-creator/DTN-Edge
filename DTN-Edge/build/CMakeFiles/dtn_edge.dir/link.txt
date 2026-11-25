@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/dtn_edge.dir/src/main.cpp.o CMakeFiles/dtn_edge.dir/src/data_acquisition.cpp.o  -o dtn_edge 

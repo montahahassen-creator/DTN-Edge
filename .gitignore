@@ -12,3 +12,10 @@ build/
 
 # Fichiers système
 .DS_Store
+build/
+**/build/
+.vscode/
+**/.vscode/
+*.db
+*.db-wal
+*.db-shm
